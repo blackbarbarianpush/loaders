@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/blackbarbarianpush/loaders/main/loaders/1-speed-keyboard-escape-candy-chocolate-spam0-qh4le9skf86q4o.lua"))()
