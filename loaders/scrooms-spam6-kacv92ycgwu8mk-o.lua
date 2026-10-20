@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/blackbarbarianpush/loaders/main/loaders/scrooms-spam6-kacv92ycgwu8mk.lua"))()
