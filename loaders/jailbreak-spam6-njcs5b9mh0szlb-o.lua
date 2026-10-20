@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/blackbarbarianpush/loaders/main/loaders/jailbreak-spam6-njcs5b9mh0szlb.lua"))()
