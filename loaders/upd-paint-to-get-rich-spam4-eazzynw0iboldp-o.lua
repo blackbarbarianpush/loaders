@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/blackbarbarianpush/loaders/main/loaders/upd-paint-to-get-rich-spam4-eazzynw0iboldp.lua"))()
