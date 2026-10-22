@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/blackbarbarianpush/loaders/main/loaders/my-anime-mine-spam0-3feoplrojlj55p.lua"))()
