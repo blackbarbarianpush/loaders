@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/blackbarbarianpush/loaders/main/loaders/troll-hug-tower-spam6-fi1c9lw6jfm4ke.lua"))()
