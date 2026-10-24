@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/blackbarbarianpush/loaders/main/loaders/blackhawk-rescue-mission-5-spam7-5re0ckf4mk9zwf.lua"))()
