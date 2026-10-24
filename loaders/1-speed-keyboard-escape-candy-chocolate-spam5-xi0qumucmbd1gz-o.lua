@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/blackbarbarianpush/loaders/main/loaders/1-speed-keyboard-escape-candy-chocolate-spam5-xi0qumucmbd1gz.lua"))()

