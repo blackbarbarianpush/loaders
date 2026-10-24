@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/blackbarbarianpush/loaders/main/loaders/airport-security-anomaly-spam3-xqgo07hqmasxgu.lua"))()
