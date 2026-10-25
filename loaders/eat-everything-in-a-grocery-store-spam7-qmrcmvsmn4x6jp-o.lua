@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/blackbarbarianpush/loaders/main/loaders/eat-everything-in-a-grocery-store-spam7-qmrcmvsmn4x6jp.lua"))()
