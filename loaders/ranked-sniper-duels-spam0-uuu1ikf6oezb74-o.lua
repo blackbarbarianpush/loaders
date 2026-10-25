@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/blackbarbarianpush/loaders/main/loaders/ranked-sniper-duels-spam0-uuu1ikf6oezb74.lua"))()
