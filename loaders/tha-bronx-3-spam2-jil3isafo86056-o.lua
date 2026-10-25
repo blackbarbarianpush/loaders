@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/blackbarbarianpush/loaders/main/loaders/tha-bronx-3-spam2-jil3isafo86056.lua"))()
