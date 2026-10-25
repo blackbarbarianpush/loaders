@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/blackbarbarianpush/loaders/main/loaders/battlearmor-st-blockade-battlefront-spam7-m6tbjj9mofb5mb.lua"))()
