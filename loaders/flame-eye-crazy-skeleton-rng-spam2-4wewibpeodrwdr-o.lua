@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/blackbarbarianpush/loaders/main/loaders/flame-eye-crazy-skeleton-rng-spam2-4wewibpeodrwdr.lua"))()
