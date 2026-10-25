@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/blackbarbarianpush/loaders/main/loaders/regretevator-elevator-simulator-spam6-i4u50rguod5krl.lua"))()
