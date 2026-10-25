@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/blackbarbarianpush/loaders/main/loaders/pt-2-build-the-pyramid-spam0-pfdxglg5ob75n9.lua"))()
