@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/blackbarbarianpush/loaders/main/loaders/bee-swarm-simulator-spam3-ugzmvrktoelmms.lua"))()

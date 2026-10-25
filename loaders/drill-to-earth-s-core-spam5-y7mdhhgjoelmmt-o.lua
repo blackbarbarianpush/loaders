@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/blackbarbarianpush/loaders/main/loaders/drill-to-earth-s-core-spam5-y7mdhhgjoelmmt.lua"))()
