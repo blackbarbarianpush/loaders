@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/blackbarbarianpush/loaders/main/loaders/find-animal-bones-spam3-1ihrxa0fo38o8t.lua"))()
